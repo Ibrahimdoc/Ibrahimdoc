@@ -1,3 +1,3 @@
-## Hi, my name is Ibrahim currently self-teaching myself cloud engineering and DevOps methodolgies.
+## Hi, my name is Ibrahim currently self-teaching myself cloud engineering and DevOps methodologies.
  I will be making projects centered around real work environments, break it intentionally and document the process to convert abstract learning into an applicable method.
  
